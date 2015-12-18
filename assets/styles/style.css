@@ -66,24 +66,24 @@
 		/* Section 1
 		 * --------------------------------------- */
 		#section0{
-			background-color: skyblue;
+			background-color: black;
 		}
 		#section0 h1{
-			color: #444;
+			color: white;
 		}
 		#section0 p{
-			color: #333;
-			opacity: 0.4;
+			color: black;
+			opacity: 0.5;
 		}
 
 
 		/* Section 2
 		 * --------------------------------------- */
 		#section1{
-			background-color: #2EBE21;
+			background-color: #ccc;
 		}
 		#section1 h1{
-			color: #fff;
+			color: black;
 		}
 		#section1 p{
 			opacity: 0.8;
@@ -93,10 +93,10 @@
 		/* Section 3
 		 * --------------------------------------- */
 		#section2{
-			background-color: #2C3E50;
+			background-color:white;
 		}
 		#section2 h1{
-			color: #F2F2F2;
+			color: black;
 		}
 		#section2 p{
 			opacity: 0.6;
